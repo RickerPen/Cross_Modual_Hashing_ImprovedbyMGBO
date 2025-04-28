@@ -1,2 +1,2 @@
-# cross_modual_hashing_ImprovedbyMGBO
-demo and note for cross_modual_hashing_ImprovedbyMGBO
+# Cross_Modual_Hashing_ImprovedbyMGBO
+Demo and note for cross_modual_hashing_ImprovedbyMGBO
